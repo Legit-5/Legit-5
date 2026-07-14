@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aryan%20Kule&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20%26%20ML%20Systems&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Aryan%20Kule&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20%26%20ML%20Systems&amp;descAlignY=58&amp;descSize=20"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Python+%7C+SQL+%7C+ML+%7C+AI+%7C+Pandas+%7C+Linux+%7C+Airflow+%7C+AWS;ELT+Pipelines+%7C+Data+Monitoring+Tools;Data+%2F+ML+Hybrid+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=Python+%7C+SQL+%7C+ML+%7C+AI+%7C+Pandas+%7C+Linux+%7C+Airflow+%7C+AWS;ELT+Pipelines+%7C+Data+Monitoring+Tools;Data+%2F+ML+Hybrid+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -98,17 +98,17 @@ fun_fact:   "I write data quality alerts so I never have to debug at 2 AM again.
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legit-5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="Aryan's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legit-5&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="Aryan's Streak Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Legit-5&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7&amp;icon_color=A855F7" alt="Aryan's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legit-5&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakLabel=A855F7" alt="Aryan's Streak Stats" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legit-5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legit-5&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7" alt="Top Languages" height="140"/>
 </div>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
 </div>
