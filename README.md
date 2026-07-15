@@ -6,7 +6,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=Python+%7C+SQL+%7C+ML+%7C+AI+%7C+Pandas+%7C+Linux+%7C+Airflow+%7C+AWS;ELT+Pipelines+%7C+Data+Monitoring+Tools;Data+%2F+ML+Hybrid+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=750&amp;height=100&amp;lines=Python+%7C+SQL+%7C+ML+%7C+AI+%7C+Pandas+%7C+Linux+%7C+Airflow+%7C+AWS;ELT+Pipelines+%7C+Data+Monitoring+Tools;Data+%2F+ML+Hybrid+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
