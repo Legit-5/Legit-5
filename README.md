@@ -96,19 +96,7 @@ fun_fact:   "I write data quality alerts so I never have to debug at 2 AM again.
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legit-5&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7&amp;icon_color=A855F7" alt="Aryan's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legit-5&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakLabel=A855F7" alt="Aryan's Streak Stats" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legit-5&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7" alt="Top Languages" height="140"/>
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
